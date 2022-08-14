@@ -1,0 +1,41 @@
+.header {
+    padding: 15px 0 0 0;
+}
+.header__container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__container > * {
+    flex: 0 1 33.333%;
+}
+.header__logo span{
+    text-transform: uppercase;
+}
+.header__text{
+    font-size: 20px;
+    text-decoration: underline;
+    margin-right: 20px;
+    text-align: center;
+}
+.header__basket{
+    text-align: end;
+    position: relative;
+    /* display: flex; */
+}
+.header__basket img {
+    width: 40px;
+}
+.header__counter {
+    position: absolute;
+    right: -5px;
+    top: 0;
+    display: inline-block;
+    vertical-align: top;
+    color: black;
+    background-color: #fff;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+    text-align: center;
+}
