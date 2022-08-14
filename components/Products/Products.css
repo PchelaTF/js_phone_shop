@@ -1,5 +1,5 @@
 .products {
-    
+    padding: 50px 0;
 }
 .products__items {
     display: flex;
@@ -43,5 +43,16 @@
     font-weight: 700;
 }
 .item__button {
-    padding: 10px 20px;
+    padding: 16px 32px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.25);
+    cursor: pointer;
+    font-size: 16px;
+    line-height: 12%;
+    font-family: inherit;
+}
+
+.item__button._active {
+    background-color: rgba(230, 42, 42, 0.279);
 }
