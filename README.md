@@ -1,3 +1,3 @@
 # js_phone_shop
 
-#Simple project on js 
+#resources for the application
