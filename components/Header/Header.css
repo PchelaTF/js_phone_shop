@@ -1,31 +1,44 @@
 .header {
     padding: 15px 0 0 0;
 }
+
 .header__container {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
-.header__container > * {
+
+.header__container>* {
     flex: 0 1 33.333%;
 }
-.header__logo span{
+
+.header__logo span {
     text-transform: uppercase;
 }
-.header__text{
+
+.header__text {
     font-size: 20px;
     text-decoration: underline;
     margin-right: 20px;
     text-align: center;
 }
-.header__basket{
+
+.header__basket {
     text-align: end;
     position: relative;
-    /* display: flex; */
+    display: flex;
+    justify-content: flex-end;
 }
+
 .header__basket img {
     width: 40px;
 }
+
+.header__basket-container {
+    width: 40px;
+    cursor: pointer;
+}
+
 .header__counter {
     position: absolute;
     right: -5px;
