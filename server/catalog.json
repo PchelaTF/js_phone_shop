@@ -2,55 +2,55 @@
     {
         "id": "phone1",
         "name": "iPhone SE",
-        "img": "https://content.rozetka.com.ua/goods/images/big/37427635.png",
+        "img": "https://github.com/PchelaTF/js_phone_shop/blob/resources/img/iPhone_SE.png?raw=true",
         "price": "528"
     },
     {
         "id": "phone2",
         "name": "iPhone 11",
-        "img": "https://content.rozetka.com.ua/goods/images/big/37399220.jpg",
+        "img": "https://github.com/PchelaTF/js_phone_shop/blob/resources/img/iPhone_11.jpg?raw=true",
         "price": "677"
     },
     {
         "id": "phone3",
         "name": "iPhone 12",
-        "img": "https://content1.rozetka.com.ua/goods/images/big/175435404.jpg",
+        "img": "https://github.com/PchelaTF/js_phone_shop/blob/resources/img/iPhone_12.jpg?raw=true",
         "price": "894"
     },
     {
         "id": "phone4",
         "name": "iPhone 12 mini",
-        "img": "https://content.rozetka.com.ua/goods/images/big/173868455.jpg",
+        "img": "https://github.com/PchelaTF/js_phone_shop/blob/resources/img/iPhone_12_mini.jpg?raw=true",
         "price": "758"
     },
     {
         "id": "phone5",
         "name": "iPhone 12 Pro Max",
-        "img": "https://content.rozetka.com.ua/goods/images/big/144250334.jpg",
+        "img": "https://github.com/PchelaTF/js_phone_shop/blob/resources/img/iPhone_12_Pro_Max.jpg?raw=true",
         "price": "1245"
     },
     {
         "id": "phone6",
         "name": "iPhone 13",
-        "img": "https://content.rozetka.com.ua/goods/images/big/221212817.jpg",
+        "img": "https://github.com/PchelaTF/js_phone_shop/blob/resources/img/iPhone_13.jpg?raw=true",
         "price": "1083"
     },
     {
         "id": "phone7",
         "name": "iPhone 13 mini",
-        "img": "https://content1.rozetka.com.ua/goods/images/big/221266736.jpg",
+        "img": "https://github.com/PchelaTF/js_phone_shop/blob/resources/img/iPhone_13_mini.jpg?raw=true",
         "price": "866"
     },
     {
         "id": "phone8",
         "name": "iPhone 13 Pro",
-        "img": "https://content1.rozetka.com.ua/goods/images/big/221208453.jpg",
+        "img": "https://github.com/PchelaTF/js_phone_shop/blob/resources/img/iPhone_13_Pro.jpg?raw=true",
         "price": "1218"
     },
     {
         "id": "phone9",
         "name": "iPhone 13 Pro Max",
-        "img": "https://content2.rozetka.com.ua/goods/images/big/221301345.jpg",
+        "img": "https://github.com/PchelaTF/js_phone_shop/blob/resources/img/iPhone_13_Pro_Max.jpg?raw=true",
         "price": "1679"
     }
 ]
