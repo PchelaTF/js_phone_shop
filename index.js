@@ -6,6 +6,8 @@ function render() {
     pageProducts.render();
 }
 
+preloader.render();
+
 let CATALOG = [];
 
 // 'server/catalog.json'
@@ -14,6 +16,7 @@ fetch('https://raw.githubusercontent.com/PchelaTF/js_phone_shop/resources/server
     .then(res => res.json())
     .then(body => {
         CATALOG = body;
+        preloader.preloaderHide();
         render();
     })
     .catch(error => console.log(error));
