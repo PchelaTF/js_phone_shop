@@ -12,7 +12,7 @@ let CATALOG = [];
 
 // 'server/catalog.json'
 // 'http://myjson.dit.upm.es/api/bins/fwxc'
-fetch('1https://raw.githubusercontent.com/PchelaTF/js_phone_shop/resources/server/catalog.json')
+fetch('https://raw.githubusercontent.com/PchelaTF/js_phone_shop/resources/server/catalog.json')
     .then(res => res.json())
     .then(body => {
         CATALOG = body;
